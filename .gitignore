@@ -1,0 +1,17 @@
+# Credenciais - nunca versionar
+.env
+
+# Dados brutos
+data/raw/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Ambientes virtuais
+venv/
+.venv/
+
+# Logs
+logs/
+*.log
